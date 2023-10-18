@@ -27,7 +27,6 @@ export default function ServiceList({ context }) {
   if (services.length === 0) {
     return (
       <>
-        <StyledHeadlineTwo>Services</StyledHeadlineTwo>
         <Paragraph>There are currently no services available.</Paragraph>
         <Paragraph>Please add a service!</Paragraph>
       </>
