@@ -6,6 +6,12 @@
 
 ### Description
 
+This app was created as a team capstone project for a web development bootcamp offered by [neuefische](https://www.neuefische.de/bootcamp/web-development) in the summer and fall of 2023. Other team members were
+
+- [Phatjira Rungsakullikit](https://github.com/ohlunlacassi)
+- [Tien Pham](https://github.com/TienPham18)
+- [Marcus Oberdiek](https://github.com/M-Oberdiek)
+
 The app has two different dashboards, one for the service manager, and one for guests. The login process is the same for both: The app asks for an email address and a room number (and does not require guests to memorize or write down _yet another_ password).
 
 Once logged in, the service manager can see the list of services on offer as well as a button which allows for the creation of new services. In the details view of each service, the service manager also has the option to edit or delete the service.
