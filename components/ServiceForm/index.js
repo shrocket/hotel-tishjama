@@ -52,7 +52,6 @@ export default function ServiceForm({ onSubmit, service = {} }) {
             }
             width={100}
             height={100}
-            required
             alt={`picture of the ${service.name}`}
           />
         )}
