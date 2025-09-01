@@ -36,5 +36,8 @@
   "description": "Next.js (incl. Styled Components and Jest)",
   "nf": {
     "template": "next"
+  },
+  "engines": {
+    "node": "22.x"
   }
 }
